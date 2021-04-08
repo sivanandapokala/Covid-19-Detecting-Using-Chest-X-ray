@@ -9,7 +9,7 @@ from io import StringIO
 from time import sleep
 import streamlit as st
 
-model = keras.models.load_model('C:/Users/sivan/Desktop/ML Projects/Covid-19 Using Chestxray')
+model = keras.models.load_model()
 def preprocess(image):
     print((image))
     images=[]
