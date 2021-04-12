@@ -9,7 +9,7 @@ from io import StringIO
 from time import sleep
 import streamlit as st
 
-model = keras.models.load_model()
+model = keras.models.load_model('model6.h5')
 def preprocess(image):
     print((image))
     images=[]
