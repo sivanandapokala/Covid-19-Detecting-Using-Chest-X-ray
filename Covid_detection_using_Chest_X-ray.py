@@ -25,7 +25,8 @@ def preprocess(image):
         output= 'Normal'
     else:
         output = 'Viral Pneumonia'
-    return output
+    s='predicted as {} with probability : {}'.format(output,np.max(result,axis=1))
+    return s
 
 
 
