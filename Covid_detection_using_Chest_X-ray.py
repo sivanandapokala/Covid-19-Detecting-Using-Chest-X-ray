@@ -37,7 +37,7 @@ html_temp = """
     
     <style>
     body {
-    background-image: url("https://media.gettyimages.com/illustrations/male-diagram-xray-muscular-and-skeletal-systems-on-black-background-illustration-id1192974691?s=2048x2048");
+    background-image: url("https://www.verywellhealth.com/thmb/zG3MtFDRocmlJcWiFczzU4oajHI=/3872x2592/filters:fill(87E3EF,1)/iStock_000008696009_Large-56a5c5715f9b58b7d0de6a74.jpg");
     background-size: cover;
     }
     </style>
