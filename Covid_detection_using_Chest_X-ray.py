@@ -37,7 +37,7 @@ html_temp = """
     
     <style>
     body {
-    background-image: url("https://news.usc.edu/files/2018/03/Nanoparticle-cancer-detection-web.jpg");
+    background-image: url("https://media.gettyimages.com/illustrations/male-diagram-xray-muscular-and-skeletal-systems-on-black-background-illustration-id1192974691?s=2048x2048");
     background-size: cover;
     }
     </style>
