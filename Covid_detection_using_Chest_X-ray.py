@@ -43,7 +43,7 @@ html_temp = """
     </style>
     """
 
-html1 = """<h2 style ="color:blue;text-align:right;"> - OM AND SIVA</h2> """
+html1 = """<h2 style ="color:blue;text-align:right;"> - Bharathi Polireddy </h2> """
       
 # display the front end aspect
 st.markdown(html_temp, unsafe_allow_html = True) 
